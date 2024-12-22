@@ -1,0 +1,25 @@
+﻿  SceneManager.cpp
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(109,7): error C2011: 'ShapeMeshes': 'class' type redefinition
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(160,14): error C2027: use of undefined type 'ShapeMeshes'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(160,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(162,1): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(163,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(165,15): error C2027: use of undefined type 'ShapeMeshes'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(165,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(167,9): error C2065: 'm_boxVAO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(169,34): error C2065: 'm_boxVAO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(172,9): error C2065: 'm_boxVBO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(174,29): error C2065: 'm_boxVBO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(177,9): error C2065: 'm_textureID': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(179,30): error C2065: 'm_textureID': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(181,1): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(183,19): error C2027: use of undefined type 'ShapeMeshes'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(185,27): error C2065: 'm_boxVAO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(186,23): error C2065: 'm_boxVAO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(188,22): error C2065: 'm_boxVBO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(189,35): error C2065: 'm_boxVBO': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(200,23): error C2065: 'm_textureID': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(201,34): error C2065: 'm_textureID': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(221,19): error C2027: use of undefined type 'ShapeMeshes'
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,34): error C2065: 'm_textureID': undeclared identifier
+U:\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(224,23): error C2065: 'm_boxVAO': undeclared identifier
